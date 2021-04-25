@@ -1,0 +1,22 @@
+int : main(){
+    int: a,b;
+    b: = 100;
+    a: = b/10*80+3-5;
+    char a: = 'x';
+    write(a);
+    write("Usman BCSF18A522"); /*My comment*/
+    while(a>=b){
+        read >> a;
+        write("This a string");
+        /*Multi
+        Line
+        comment*/
+    }
+    if(a<100){
+        write(a);
+    }
+    else{
+        write(b);
+    }
+    return 0;
+}

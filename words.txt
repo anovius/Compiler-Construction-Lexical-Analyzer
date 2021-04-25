@@ -1,0 +1,88 @@
+<Datatype int>
+<Variable_Dec_Opt>
+<ID 1>
+<Paraenthesis>
+<Paraenthesis>
+<Bracess>
+<Datatype int>
+<Variable_Dec_Opt>
+<ID 2>
+<Comma>
+<ID 3>
+<Semicolon>
+<ID 4>
+<Variable_Dec_Opt>
+<Assignment_Opt>
+<Numeric_Const 100>
+<Semicolon>
+<ID 5>
+<Variable_Dec_Opt>
+<Assignment_Opt>
+<ID 6>
+<ArithmaticOpt />
+<Numeric_Const 10>
+<ArithmaticOpt *>
+<Numeric_Const 80>
+<ArithmaticOpt +>
+<Numeric_Const 3>
+<ArithmaticOpt ->
+<Numeric_Const 5>
+<Semicolon>
+<Datatype char>
+<ID 7>
+<Variable_Dec_Opt>
+<Assignment_Opt>
+<Literal_Const x>
+<Semicolon>
+<Keyword write>
+<Paraenthesis>
+<ID 8>
+<Paraenthesis>
+<Semicolon>
+<Keyword write>
+<Paraenthesis>
+<String "Usman BCSF18A522">
+<Paraenthesis>
+<Semicolon>
+<Keyword while>
+<Paraenthesis>
+<ID 9>
+<Relational_Opt >=>
+<ID 10>
+<Paraenthesis>
+<Bracess>
+<Keyword read>
+<Input_Opt>
+<ID 11>
+<Semicolon>
+<Keyword write>
+<Paraenthesis>
+<String "This a string">
+<Paraenthesis>
+<Semicolon>
+<Bracess>
+<Keyword if>
+<Paraenthesis>
+<ID 12>
+<Relational_Opt <>
+<Numeric_Const 100>
+<Paraenthesis>
+<Bracess>
+<Keyword write>
+<Paraenthesis>
+<ID 13>
+<Paraenthesis>
+<Semicolon>
+<Bracess>
+<Keyword else>
+<Bracess>
+<Keyword write>
+<Paraenthesis>
+<ID 14>
+<Paraenthesis>
+<Semicolon>
+<Bracess>
+<Keyword return>
+<Numeric_Const 0>
+<Semicolon>
+<Bracess>
